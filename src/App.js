@@ -8,7 +8,7 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      fact: "Click the button to generate a joke!"
+      fact: "Click the button to generate a fact!"
     }
   }
 generateFact(){
