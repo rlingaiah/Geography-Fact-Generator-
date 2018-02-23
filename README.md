@@ -3,9 +3,10 @@ Geography Fact Generator:
 Created this simple application to get familiarized with the functionalities of React.js. Click on a button and get a new randomized geography fact. 
 
 Installation:
-- npm install -g create-react-app
-- create-react-app geography-app
-- cd geography-app/
+- git clone https://github.com/rlingaiah/Geography-Fact-Generator-
+- cd Geography-Fact-Generator
+- npm install 
+- cd src
 - npm start
 
 
